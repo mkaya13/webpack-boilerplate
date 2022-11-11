@@ -7,3 +7,7 @@
 `npm install --save-dev style-loader css-loader`
 
 Then add config files, dist folder and src folder.
+
+## RUN DEMO
+
+- `npm run build`
