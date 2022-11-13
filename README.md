@@ -1,10 +1,10 @@
 # WEBPACK SETUP
 
-- `npm install --save-dev webpack`
+- `npm install webpack --save-dev`
 
-- `npm install --save-dev html-webpack-plugin`
+- `npm install html-webpack-plugin --save-dev  `
 
-- `npm install --save-dev style-loader css-loader`
+- `npm install style-loader css-loader --save-dev`
 
 Then add config files, dist folder and src folder.
 
