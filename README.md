@@ -6,6 +6,8 @@
 
 - `npm install style-loader css-loader --save-dev`
 
+- `npm install webpack-cli --save-dev`
+
 Then add config files, dist folder and src folder.
 
 ## RUN DEMO
