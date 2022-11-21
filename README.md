@@ -12,6 +12,10 @@ or
 
 - `npm install webpack-cli --save-dev`
 
+- `npm install webpack-dev-server --save-dev`
+
+- `npm install webpack-merge --save-dev`
+
 Then add config files, dist folder and src folder.
 
 ## RUN DEMO
