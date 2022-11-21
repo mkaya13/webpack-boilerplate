@@ -2,7 +2,7 @@
 
 - `npm install`
 
-or
+   or
 
 - `npm install webpack --save-dev`
 
