@@ -8,3 +8,7 @@ const element = document.createElement("div");
 element.appendChild(myIcon);
 
 document.body.appendChild(element);
+
+const envVar = document.querySelector(".env-var");
+
+envVar.innerHTML = process.env.API;
