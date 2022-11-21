@@ -1,5 +1,9 @@
 # WEBPACK SETUP
 
+- `npm install`
+
+or
+
 - `npm install webpack --save-dev`
 
 - `npm install html-webpack-plugin --save-dev  `
